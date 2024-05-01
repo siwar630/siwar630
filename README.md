@@ -1,6 +1,6 @@
 
-<h1 align="center">Hi 👋, I'm Siwar Terres 😄. Welcome to my github account !</h1>
-<h3 align="center">Software Engineering student at the National School of Engineering of Tunis ENIT</h3>
+<h1 align="center">Hi 👋, I'm Siwar Terres 😄</h1>
+<h3 align="center"> Welcome to my github account !</h3>
 
 
 
