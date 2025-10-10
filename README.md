@@ -68,11 +68,11 @@ TensorFlow, Keras, Scikit-learn, Pandas, NumPy, OpenCV
 ## 🌍 Let's Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/siwar-terres/" target="_blank">
+  <a href="https://www.linkedin.com/in/siwar-terres-25076325b" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
   </a>
   &nbsp;
-  <a href="mailto:siwar.terres@gmail.com">
+  <a href="mailto:siwarterres65@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" height="40" />
   </a>
 </p>
