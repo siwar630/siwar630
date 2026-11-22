@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Siwar Terres</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2B6CB0&center=true&vCenter=true&width=600&lines=Full+Stack+Software+Engineer;DevOps+%26+Cloud+Enthusiast;Security-minded+Builder;AI%2FML+Explorer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2B6CB0&center=true&vCenter=true&width=700&lines=Software+Engineer;Cybersecurity+Master's+Student;Full+Stack+Developer;Exploring+Zero+Trust+%26+Application+Security;Building+Secure+%26+Reliable+Systems" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -16,17 +16,20 @@
 
 ---
 
-### 🧑‍💻 About Me
+### 👩‍💻 About Me
 
-- 🎓 Full Stack Software Engineer, building web & mobile applications end to end
-- ☁️ Exploring **DevOps, Cloud, and Security** — CI/CD pipelines, containers, monitoring
-- 🤖 Curious about **AI/ML** and how to bring it into real products
-- 🛠️ Comfortable across the stack: frontend, backend, mobile, databases, and infra
+- 🎓 Software Engineer with a background in Full Stack Development.
+- 🔐 Currently pursuing a Master's degree in **Operational Cybersecurity at SUP'COM**.
+- 🛡️ Exploring **Identity & Access Management (IAM), Zero Trust Architecture, Application Security, and Network Security**.
+- 💻 Building web applications and exploring how to design and secure reliable systems.
+- 🧪 Practicing cybersecurity through hands-on labs, technical experiments, and security projects.
+- ☁️ Interested in DevOps, Cloud Infrastructure, and DevSecOps.
+- 🤖 Curious about AI/ML and its applications in software engineering and cybersecurity.
 - 📫 Reach me at **siwarterres65@gmail.com**
 
 ---
 
-### 🧠 Tech Stack
+### 🛠️ Tech Stack
 
 <table>
 <tr>
@@ -36,11 +39,11 @@
 <br/>
 <img src="https://skillicons.dev/icons?i=java,js,ts,python,c,cpp,sql" />
 
-**Web**
+**Web Development**
 <br/>
 <img src="https://skillicons.dev/icons?i=html,css,react,angular,spring,express" />
 
-**Mobile**
+**Mobile Development**
 <br/>
 <img src="https://skillicons.dev/icons?i=flutter,dart" />
 
@@ -62,17 +65,21 @@
 </td>
 <td valign="top" width="33%">
 
+**Cybersecurity**
+<br/>
+<img src="https://skillicons.dev/icons?i=linux,bash,python" />
+
+**Identity & Authentication**
+<br/>
+<img src="https://skillicons.dev/icons?i=keycloak" />
+
 **AI / Machine Learning**
 <br/>
-<img src="https://skillicons.dev/icons?i=tensorflow,opencv,python" />
+<img src="https://skillicons.dev/icons?i=tensorflow,opencv" />
 
-**Tools**
+**Development Tools**
 <br/>
-<img src="https://skillicons.dev/icons?i=vscode,postman,linux,figma" />
-
-**Security**
-<br/>
-<img src="https://skillicons.dev/icons?i=githubactions" />
+<img src="https://skillicons.dev/icons?i=vscode,postman,figma" />
 
 </td>
 </tr>
@@ -80,16 +87,55 @@
 
 ---
 
-### 📚 Currently Learning / Exploring
+### 🔐 Cybersecurity Journey
 
-<!-- Tweak this list to reflect what you're actually studying right now -->
-- 🔐 Cloud security best practices (IAM, secrets management, network hardening)
-- ☸️ Advanced Kubernetes (Helm, operators, service mesh)
-- 🧪 MLOps — putting AI/ML models into production pipelines
+Currently developing my cybersecurity skills through academic projects and hands-on laboratory environments.
+
+**Areas of Interest & Practical Exploration**
+
+- 🔑 **Identity & Access Management:** Keycloak, authentication flows, MFA, OAuth 2.0, OpenID Connect and PKCE.
+- 🛡️ **Zero Trust Security:** Context-aware authentication and access control policies.
+- 📡 **Security Monitoring:** Wazuh, File Integrity Monitoring (FIM), and Security Configuration Assessment (SCA).
+- 🌐 **Network Security:** Network fundamentals, traffic analysis, and Linux networking.
+- 🔒 **Cryptography:** RSA, authentication protocols, and cryptographic concepts.
+- 💻 **Security Programming:** Python scripting and authentication security experiments.
+
+**Hands-on Labs & Projects**
+
+| Project | Technologies |
+|---|---|
+| Zero Trust IAM Lab | Keycloak, Docker, OAuth 2.0, OIDC, PKCE |
+| SIEM & Monitoring Lab | Wazuh, Linux, Kali Linux, RHEL |
+| Authentication Security Experiments | Python, JWT, RSA, PKCE |
+
+*Academic labs and practical experiments — documenting my learning process and technical implementations.*
 
 ---
 
+### 🚀 Software Engineering Projects
 
+I also work on full-stack applications and software engineering projects involving:
+
+- Backend development with Java, Spring Boot, Node.js and Python.
+- Frontend development with React, Angular and TypeScript.
+- REST API design and database integration.
+- Authentication, authorization and application architecture.
+- Containerization, CI/CD and monitoring.
+
+Check out my repositories for more projects and implementations.
+
+---
+
+### 📚 Currently Learning / Exploring
+
+- 🔐 Identity & Access Management and Zero Trust Architecture.
+- 🛡️ Application Security and Secure Authentication.
+- 🔎 SIEM, Security Monitoring and Incident Detection.
+- 🌐 Network Security and Traffic Analysis.
+- ☁️ Cloud Security and DevSecOps practices.
+- 🧪 Security automation with Python.
+
+---
 
 ### 📊 GitHub Stats
 
@@ -110,17 +156,11 @@
 
 ### 📈 Contribution Activity
 
-<!--
-This snake animation needs a one-time GitHub Action setup in your repo.
-I can walk you through it if you want — it's a popular profile feature.
--->
 <p align="center">
   <img src="https://raw.githubusercontent.com/siwar630/siwar630/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
 ---
-
-
 
 ### 🌍 Let's Connect
 
@@ -139,5 +179,5 @@ I can walk you through it if you want — it's a popular profile feature.
 </p>
 
 <p align="center">
-  <i>✨ "Keep learning, keep building, and stay curious." ✨</i>
+  <i>✨ "Keep learning, keep building, and build securely." ✨</i>
 </p>
